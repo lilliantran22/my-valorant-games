@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Valorant Guess Who | Riot Minigames</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="app-container">
+        <a href="index.html" class="back-to-hub">← Back to Hub</a>
+
+        <div class="game-hub-header">
+            <h1>
+                <img src="images/valorant/other/valorant_logo.png" alt="VALORANT" class="section-logo">
+                Guess Who
+            </h1>
+            <div class="game-badges">
+                <span class="badge" id="agentCountBadge">27 Agents</span>
+                <span class="badge">Click to Toggle</span>
+            </div>
+        </div>
+
+        <div class="agent-selector-area">
+            <div class="agent-pick">
+                <label>🎭 SELECT YOUR AGENT:</label>
+                <select id="agentSelect">
+                    <option value="">-- Choose your agent --</option>
+                </select>
+                <button id="lockInBtn" class="lock-btn">🔒 Lock In</button>
+                <div class="stats" id="statsDisplay">📊 Candidates left: 27</div>
+            </div>
+            <button class="reset-game-btn" id="resetGameBtn">⟳ New Game</button>
+        </div>
+
+        <div id="agentsGridContainer" class="agents-grid"></div>
+        <div id="gameMessage" class="message-area">
+            💡 How to play: 
+            1. Select your agent from the dropdown and click "Lock In" 
+            2. Now click on any cards that are NOT your opponent's agent to flip (eliminate) them
+            3. Click a flipped card again to undo if you made a mistake
+            4. Keep eliminating until only your opponent's agent remains!
+        </div>
+    </div>
+
+    <script src="js/valorant-data.js"></script>
+    <script src="js/valorant-game.js"></script>
+</body>
+</html>

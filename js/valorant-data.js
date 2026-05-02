@@ -1,0 +1,33 @@
+const ALL_AGENTS = [
+    { name: "Astra",     image: "astra.webp"     },
+    { name: "Breach",    image: "breach.webp"    },
+    { name: "Brimstone", image: "brimstone.webp" },
+    { name: "Chamber",   image: "chamber.webp"   },
+    { name: "Clove",     image: "clove.webp"     },
+    { name: "Cypher",    image: "cypher.webp"    },
+    { name: "Deadlock",  image: "deadlock.webp"  },
+    { name: "Fade",      image: "fade.webp"      },
+    { name: "Gekko",     image: "gekko.webp"     },
+    { name: "Harbor",    image: "harbor.webp"    },
+    { name: "Iso",       image: "iso.webp"       },
+    { name: "Jett",      image: "jett.webp"      },
+    { name: "KAY/O",     image: "kayo.webp"      },
+    { name: "Killjoy",   image: "killjoy.webp"   },
+    { name: "Miks",      image: "miks.webp"      },
+    { name: "Neon",      image: "neon.webp"      },
+    { name: "Omen",      image: "omen.webp"      },
+    { name: "Phoenix",   image: "phoenix.webp"   },
+    { name: "Raze",      image: "raze.webp"      },
+    { name: "Reyna",     image: "reyna.webp"     },
+    { name: "Sage",      image: "sage.webp"      },
+    { name: "Skye",      image: "skye.webp"      },
+    { name: "Sova",      image: "sova.webp"      },
+    { name: "Tejo",      image: "tejo.webp"      },
+    { name: "Veto",      image: "veto.webp"      },
+    { name: "Viper",     image: "viper.webp"     },
+    { name: "Vyse",      image: "vyse.webp"      },
+    { name: "Waylay",    image: "waylay.webp"    },
+    { name: "Yoru",      image: "yoru.webp"      }
+];
+
+const IMG_BASE = "images/valorant/agents/";
