@@ -1,7 +1,7 @@
 // Game state
 let selectedAgent = null;
 let isLockedIn = false;
-let flippedState = new Array(ALL_AGENTS.length).fill(false);
+let eliminatedState = new Array(ALL_AGENTS.length).fill(false);
 
 // DOM elements
 const agentSelect = document.getElementById('agentSelect');
@@ -13,25 +13,33 @@ const resetBtn = document.getElementById('resetGameBtn');
 const agentCountBadge = document.getElementById('agentCountBadge');
 
 function updateStats() {
-    const activeCards = ALL_AGENTS.filter((_, idx) => !flippedState[idx]).length;
+    const activeCards = ALL_AGENTS.filter((_, idx) => !eliminatedState[idx]).length;
     statsSpan.innerText = `📊 Candidates left: ${activeCards} / ${ALL_AGENTS.length}`;
 }
 
-function toggleCardFlip(index) {
+function toggleEliminate(index) {
     if (!isLockedIn) {
         gameMessageDiv.innerHTML = "⚠️ Please lock in your selected agent first!";
         return;
     }
 
-    flippedState[index] = !flippedState[index];
-    renderGrid();
+    eliminatedState[index] = !eliminatedState[index];
 
+    const card = agentsGrid.children[index];
     const agent = ALL_AGENTS[index];
-    if (flippedState[index]) {
+
+    if (eliminatedState[index]) {
+        // Remove and re-add to force animation replay from the start
+        card.classList.remove('eliminated');
+        void card.offsetWidth; // triggers reflow so browser resets the animation
+        card.classList.add('eliminated');
         gameMessageDiv.innerHTML = `🗑️ Eliminated: ${agent.name}. Click again to undo if needed.`;
     } else {
+        card.classList.remove('eliminated');
         gameMessageDiv.innerHTML = `↩️ Restored: ${agent.name}. Back in the running!`;
     }
+
+    updateStats();
 }
 
 function renderGrid() {
@@ -40,7 +48,7 @@ function renderGrid() {
 
     ALL_AGENTS.forEach((agent, idx) => {
         const card = document.createElement('div');
-        card.className = `agent-card ${flippedState[idx] ? 'flipped' : ''}`;
+        card.className = 'agent-card';
 
         const imgElement = document.createElement('img');
         imgElement.src = `${IMG_BASE}${agent.image}`;
@@ -59,7 +67,7 @@ function renderGrid() {
 
         card.addEventListener('click', (e) => {
             e.stopPropagation();
-            toggleCardFlip(idx);
+            toggleEliminate(idx);
         });
 
         agentsGrid.appendChild(card);
@@ -81,13 +89,13 @@ function lockInAgent() {
     lockInBtn.disabled = true;
     lockInBtn.textContent = "✓ Locked In";
 
-    gameMessageDiv.innerHTML = `🔒 Locked in! Your selected agent is ${selectedAgent.name}. Now click cards to eliminate suspects. Click any card to flip it, and click again to undo!`;
+    gameMessageDiv.innerHTML = `🔒 Locked in! Your selected agent is ${selectedAgent.name}. Now click cards to eliminate suspects. Click again to undo!`;
 }
 
 function resetGame() {
     selectedAgent = null;
     isLockedIn = false;
-    flippedState = new Array(ALL_AGENTS.length).fill(false);
+    eliminatedState = new Array(ALL_AGENTS.length).fill(false);
 
     agentSelect.disabled = false;
     agentSelect.value = "";
