@@ -23,15 +23,14 @@ function toggleEliminate(index) {
         return;
     }
 
-    eliminatedState[index] = !eliminatedState[index];
+    eliminatedState[index] = !eliminatedState[index]; // i like tacos
 
     const card = agentsGrid.children[index];
     const agent = ALL_AGENTS[index];
 
     if (eliminatedState[index]) {
-        // Remove and re-add to force animation replay from the start
         card.classList.remove('eliminated');
-        void card.offsetWidth; // triggers reflow so browser resets the animation
+        void card.offsetWidth;
         card.classList.add('eliminated');
         gameMessageDiv.innerHTML = `🗑️ Eliminated: ${agent.name}. Click again to undo if needed.`;
     } else {

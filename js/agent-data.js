@@ -30,4 +30,4 @@ const ALL_AGENTS = [
     { name: "Yoru",      image: "yoru.webp"      }
 ];
 
-const IMG_BASE = "images/valorant/agents/";
+const IMG_BASE = "../../images/valorant/agents/";
