@@ -8,29 +8,24 @@
   ],
   "counts": {
     "2021": {
-      "players": 141,
-      "pick_rates": 384,
-      "team_agents": 200
+      "players": 237,
+      "pick_rates": 168
     },
     "2022": {
-      "players": 298,
-      "pick_rates": 792,
-      "team_agents": 370
+      "players": 415,
+      "pick_rates": 168
     },
     "2023": {
-      "players": 218,
-      "pick_rates": 624,
-      "team_agents": 310
+      "players": 348,
+      "pick_rates": 168
     },
     "2024": {
-      "players": 282,
-      "pick_rates": 816,
-      "team_agents": 380
+      "players": 417,
+      "pick_rates": 144
     },
     "2025": {
-      "players": 277,
-      "pick_rates": 837,
-      "team_agents": 410
+      "players": 445,
+      "pick_rates": 189
     }
   }
 }

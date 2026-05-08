@@ -1,0 +1,3458 @@
+[
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Jett",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Sova",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Viper",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Astra",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Reyna",
+    "Pick Rate":"25%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Killjoy",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"KAY\/O",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Cypher",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Skye",
+    "Pick Rate":"25%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Sage",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Raze",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Breach",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Brimstone",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Ascent",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Jett",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Sova",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Viper",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Astra",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Reyna",
+    "Pick Rate":"25%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Killjoy",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"KAY\/O",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Cypher",
+    "Pick Rate":"75%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Skye",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Sage",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Raze",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Breach",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Brimstone",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Breeze",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Jett",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Sova",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Viper",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Astra",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Reyna",
+    "Pick Rate":"75%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Killjoy",
+    "Pick Rate":"25%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"KAY\/O",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Cypher",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Skye",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Sage",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Raze",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Breach",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Brimstone",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Icebox",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Jett",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Sova",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Viper",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Astra",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Reyna",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Killjoy",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"KAY\/O",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Cypher",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Skye",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Sage",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Raze",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Breach",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Brimstone",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Bind",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Jett",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Sova",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Viper",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Astra",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Reyna",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Killjoy",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"KAY\/O",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Cypher",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Skye",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Sage",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Raze",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Breach",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Brimstone",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Fracture",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Jett",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Sova",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Viper",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Astra",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Reyna",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Killjoy",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"KAY\/O",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Cypher",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Skye",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Sage",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Raze",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Breach",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Brimstone",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Haven",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Jett",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Sova",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Viper",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Astra",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Reyna",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Killjoy",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"KAY\/O",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Cypher",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Skye",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Sage",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Raze",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Breach",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Brimstone",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Quarterfinals",
+    "Map":"Split",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Viper",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Sova",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Astra",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Jett",
+    "Pick Rate":"25%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Skye",
+    "Pick Rate":"75%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Sage",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Reyna",
+    "Pick Rate":"25%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Raze",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Cypher",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"KAY\/O",
+    "Pick Rate":"25%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Brimstone",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Breach",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Killjoy",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Bind",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Viper",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Sova",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Astra",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Jett",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Skye",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Sage",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Reyna",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Raze",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Cypher",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"KAY\/O",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Brimstone",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Breach",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Killjoy",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Ascent",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Viper",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Sova",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Astra",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Jett",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Skye",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Sage",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Reyna",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Raze",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Cypher",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"KAY\/O",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Brimstone",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Breach",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Killjoy",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Breeze",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Viper",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Sova",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Astra",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Jett",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Skye",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Sage",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Reyna",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Raze",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Cypher",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"KAY\/O",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Brimstone",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Breach",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Killjoy",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Omen",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Semifinals",
+    "Map":"Split",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Jett",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Sova",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Viper",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Cypher",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Astra",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Sage",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Skye",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Raze",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Killjoy",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Reyna",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Breach",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"KAY\/O",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Brimstone",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Jett",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Sova",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Viper",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Cypher",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Astra",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Sage",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Skye",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Raze",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Killjoy",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Reyna",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Breach",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"KAY\/O",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Brimstone",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Jett",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Sova",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Viper",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Cypher",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Astra",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Sage",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Skye",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Raze",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Killjoy",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Reyna",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Breach",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"KAY\/O",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Brimstone",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Fracture",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Jett",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Sova",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Viper",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Cypher",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Astra",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Sage",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Skye",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Raze",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Killjoy",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Reyna",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Breach",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"KAY\/O",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Brimstone",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Omen",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Icebox",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Jett",
+    "Pick Rate":"100%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Sova",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Viper",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Cypher",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Astra",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Sage",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Skye",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Raze",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Killjoy",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Reyna",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Breach",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"KAY\/O",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Brimstone",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Omen",
+    "Pick Rate":"50%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Iso",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Harbor",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Neon",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Phoenix",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Gekko",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Fade",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Deadlock",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Clove",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Chamber",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  },
+  {
+    "Tournament":"Valorant Champions 2021",
+    "Stage":"Playoffs",
+    "Match Type":"Grand Final",
+    "Map":"Split",
+    "Agent":"Yoru",
+    "Pick Rate":"0%",
+    "Year":"2021"
+  }
+]

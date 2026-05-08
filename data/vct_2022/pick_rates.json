@@ -1,7130 +1,842 @@
 [
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Chamber",
-    "Pick Rate":"75%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"KAY\/O",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Sova",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Fade",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Omen",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Sage",
-    "Pick Rate":"25%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
     "Map":"Ascent",
     "Agent":"Astra",
-    "Pick Rate":"50%",
-    "Year":"2022"
+    "Pick Rate":"39.3%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Jett",
-    "Pick Rate":"25%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Phoenix",
-    "Pick Rate":"25%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Ascent",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Chamber",
-    "Pick Rate":"75%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"KAY\/O",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Sova",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Fade",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Omen",
-    "Pick Rate":"25%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Breach",
-    "Pick Rate":"25%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Neon",
-    "Pick Rate":"25%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Skye",
-    "Pick Rate":"25%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Jett",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Phoenix",
-    "Pick Rate":"25%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Breeze",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"KAY\/O",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Fade",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Sage",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Skye",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Raze",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Brimstone",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Bind",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Chamber",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"KAY\/O",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Fade",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Omen",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Breach",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Sage",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Neon",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Brimstone",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Fracture",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Chamber",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"KAY\/O",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Fade",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Omen",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Breach",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Raze",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Haven",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Chamber",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"KAY\/O",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Sova",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Fade",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Sage",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Icebox",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Chamber",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"KAY\/O",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Fade",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Neon",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Skye",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Astra",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Quarterfinals",
-    "Map":"Pearl",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Chamber",
-    "Pick Rate":"75%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Fade",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"KAY\/O",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Omen",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Jett",
-    "Pick Rate":"25%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Killjoy",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Breach",
-    "Pick Rate":"75%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Raze",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Phoenix",
-    "Pick Rate":"25%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Haven",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Fade",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"KAY\/O",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Omen",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Jett",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Sova",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Killjoy",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
     "Map":"Ascent",
     "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Astra",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
     "Map":"Ascent",
     "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Ascent",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Fade",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"KAY\/O",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Jett",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Sova",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Cypher",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Skye",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Breeze",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Chamber",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Fade",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"KAY\/O",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Viper",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Astra",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Neon",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Semifinals",
-    "Map":"Pearl",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"KAY\/O",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
     "Map":"Ascent",
     "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
+    "Pick Rate":"32.1%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Sova",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Fade",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Killjoy",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Omen",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Astra",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Jett",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Ascent",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
     "Map":"Ascent",
     "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
     "Map":"Ascent",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"KAY\/O",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Brimstone",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Skye",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Fade",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Raze",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
     "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"7.1%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Map":"Ascent",
+    "Agent":"Deadlock",
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Upper Final",
-    "Map":"Bind",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Map":"Ascent",
+    "Agent":"Fade",
+    "Pick Rate":"60.7%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Gekko",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Ascent",
+    "Agent":"Harbor",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Ascent",
+    "Agent":"Iso",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Ascent",
+    "Agent":"Jett",
+    "Pick Rate":"67.9%"
+  },
+  {
     "Map":"Ascent",
     "Agent":"KAY\/O",
-    "Pick Rate":"100%",
-    "Year":"2022"
+    "Pick Rate":"100.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Chamber",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Sova",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Jett",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Omen",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Fade",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Ascent",
     "Agent":"Killjoy",
-    "Pick Rate":"100%",
-    "Year":"2022"
+    "Pick Rate":"42.9%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Ascent",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Ascent",
     "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Ascent",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Omen",
+    "Pick Rate":"60.7%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Ascent",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Phoenix",
+    "Pick Rate":"3.6%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Ascent",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Raze",
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Ascent",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Reyna",
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Ascent",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Sage",
+    "Pick Rate":"7.1%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
+    "Map":"Ascent",
+    "Agent":"Skye",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Ascent",
+    "Agent":"Sova",
+    "Pick Rate":"78.6%"
+  },
+  {
+    "Map":"Ascent",
+    "Agent":"Viper",
+    "Pick Rate":"0.0%"
+  },
+  {
     "Map":"Ascent",
     "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
+    "Map":"Bind",
+    "Agent":"Astra",
+    "Pick Rate":"16.7%"
+  },
+  {
+    "Map":"Bind",
+    "Agent":"Breach",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Bind",
+    "Agent":"Brimstone",
+    "Pick Rate":"83.3%"
+  },
+  {
+    "Map":"Bind",
+    "Agent":"Chamber",
+    "Pick Rate":"50.0%"
+  },
+  {
+    "Map":"Bind",
+    "Agent":"Clove",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Bind",
+    "Agent":"Cypher",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Bind",
+    "Agent":"Deadlock",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Bind",
+    "Agent":"Fade",
+    "Pick Rate":"33.3%"
+  },
+  {
+    "Map":"Bind",
+    "Agent":"Gekko",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Bind",
+    "Agent":"Harbor",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Bind",
+    "Agent":"Iso",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Bind",
+    "Agent":"Jett",
+    "Pick Rate":"0.0%"
+  },
+  {
     "Map":"Bind",
     "Agent":"KAY\/O",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"8.3%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Fade",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Bind",
     "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Raze",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Brimstone",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Skye",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Bind",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Bind",
     "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Bind",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Omen",
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Bind",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Phoenix",
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Bind",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Raze",
+    "Pick Rate":"100.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Bind",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Reyna",
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Bind",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Sage",
+    "Pick Rate":"16.7%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
+    "Map":"Bind",
+    "Agent":"Skye",
+    "Pick Rate":"91.7%"
+  },
+  {
+    "Map":"Bind",
+    "Agent":"Sova",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Bind",
+    "Agent":"Viper",
+    "Pick Rate":"100.0%"
+  },
+  {
     "Map":"Bind",
     "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
+    "Map":"Breeze",
+    "Agent":"Astra",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Breeze",
+    "Agent":"Breach",
+    "Pick Rate":"6.2%"
+  },
+  {
+    "Map":"Breeze",
+    "Agent":"Brimstone",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Breeze",
+    "Agent":"Chamber",
+    "Pick Rate":"68.8%"
+  },
+  {
+    "Map":"Breeze",
+    "Agent":"Clove",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Breeze",
+    "Agent":"Cypher",
+    "Pick Rate":"25.0%"
+  },
+  {
+    "Map":"Breeze",
+    "Agent":"Deadlock",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Breeze",
+    "Agent":"Fade",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Breeze",
+    "Agent":"Gekko",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Breeze",
+    "Agent":"Harbor",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Breeze",
+    "Agent":"Iso",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Breeze",
+    "Agent":"Jett",
+    "Pick Rate":"87.5%"
+  },
+  {
     "Map":"Breeze",
     "Agent":"KAY\/O",
-    "Pick Rate":"100%",
-    "Year":"2022"
+    "Pick Rate":"62.5%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Sova",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Jett",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Fade",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Breeze",
     "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Cypher",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Breeze",
     "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"6.2%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
     "Map":"Breeze",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Breeze",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"KAY\/O",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Chamber",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
     "Agent":"Omen",
-    "Pick Rate":"100%",
-    "Year":"2022"
+    "Pick Rate":"6.2%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Fade",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Killjoy",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Raze",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
+    "Map":"Breeze",
     "Agent":"Phoenix",
-    "Pick Rate":"50%",
-    "Year":"2022"
+    "Pick Rate":"6.2%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Breach",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Grand Final",
-    "Map":"Haven",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Fade",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
+    "Map":"Breeze",
     "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Map":"Breeze",
+    "Agent":"Reyna",
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"KAY\/O",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
+    "Map":"Breeze",
     "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Omen",
-    "Pick Rate":"50%",
-    "Year":"2022"
+    "Map":"Breeze",
+    "Agent":"Skye",
+    "Pick Rate":"31.2%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
+    "Map":"Breeze",
     "Agent":"Sova",
-    "Pick Rate":"50%",
-    "Year":"2022"
+    "Pick Rate":"100.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Astra",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Jett",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Cypher",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Ascent",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Fade",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Raze",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
+    "Map":"Breeze",
     "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
+    "Pick Rate":"100.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"KAY\/O",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Sage",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Brimstone",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Skye",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Bind",
+    "Map":"Breeze",
     "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
+    "Map":"Fracture",
+    "Agent":"Astra",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Fracture",
+    "Agent":"Breach",
+    "Pick Rate":"100.0%"
+  },
+  {
+    "Map":"Fracture",
+    "Agent":"Brimstone",
+    "Pick Rate":"83.3%"
+  },
+  {
+    "Map":"Fracture",
     "Agent":"Chamber",
-    "Pick Rate":"100%",
-    "Year":"2022"
+    "Pick Rate":"100.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Fade",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Raze",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"KAY\/O",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Omen",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Breach",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
+    "Map":"Fracture",
     "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Haven",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Chamber",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Fade",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Raze",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"KAY\/O",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Sage",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Sova",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
+    "Map":"Fracture",
     "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
+    "Map":"Fracture",
     "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 1",
-    "Map":"Icebox",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"KAY\/O",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Chamber",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
+    "Map":"Fracture",
     "Agent":"Fade",
-    "Pick Rate":"75%",
-    "Year":"2022"
+    "Pick Rate":"33.3%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Jett",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Sova",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Sage",
-    "Pick Rate":"25%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Killjoy",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Astra",
-    "Pick Rate":"25%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Omen",
-    "Pick Rate":"75%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
+    "Map":"Fracture",
     "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Ascent",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"KAY\/O",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Fade",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Astra",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Brimstone",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Raze",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Skye",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
+    "Map":"Fracture",
     "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
+    "Map":"Fracture",
     "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Map":"Fracture",
+    "Agent":"Jett",
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Bind",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
     "Map":"Fracture",
     "Agent":"KAY\/O",
-    "Pick Rate":"50%",
-    "Year":"2022"
+    "Pick Rate":"50.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Chamber",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Fade",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
     "Map":"Fracture",
     "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
     "Map":"Fracture",
     "Agent":"Neon",
-    "Pick Rate":"100%",
-    "Year":"2022"
+    "Pick Rate":"100.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
     "Map":"Fracture",
-    "Agent":"Brimstone",
-    "Pick Rate":"100%",
-    "Year":"2022"
+    "Agent":"Omen",
+    "Pick Rate":"16.7%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Breach",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Fracture",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
     "Map":"Fracture",
     "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
+    "Map":"Fracture",
+    "Agent":"Raze",
+    "Pick Rate":"0.0%"
+  },
+  {
     "Map":"Fracture",
     "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
     "Map":"Fracture",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Sage",
+    "Pick Rate":"16.7%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
     "Map":"Fracture",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Skye",
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
     "Map":"Fracture",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"KAY\/O",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Fade",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Jett",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
     "Agent":"Sova",
-    "Pick Rate":"100%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Sage",
-    "Pick Rate":"100%",
-    "Year":"2022"
+    "Map":"Fracture",
+    "Agent":"Viper",
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Killjoy",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Icebox",
+    "Map":"Fracture",
     "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"KAY\/O",
-    "Pick Rate":"100%",
-    "Year":"2022"
+    "Map":"Haven",
+    "Agent":"Astra",
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
+    "Map":"Haven",
+    "Agent":"Breach",
+    "Pick Rate":"70.8%"
+  },
+  {
+    "Map":"Haven",
+    "Agent":"Brimstone",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Haven",
     "Agent":"Chamber",
-    "Pick Rate":"100%",
-    "Year":"2022"
+    "Pick Rate":"79.2%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
+    "Map":"Haven",
+    "Agent":"Clove",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Haven",
+    "Agent":"Cypher",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Haven",
+    "Agent":"Deadlock",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Haven",
     "Agent":"Fade",
-    "Pick Rate":"50%",
-    "Year":"2022"
+    "Pick Rate":"91.7%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
+    "Map":"Haven",
+    "Agent":"Gekko",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Haven",
+    "Agent":"Harbor",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Haven",
+    "Agent":"Iso",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Haven",
     "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"20.8%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Sage",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Astra",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Neon",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Skye",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 2",
-    "Map":"Pearl",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Chamber",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Fade",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Sage",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Raze",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"KAY\/O",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Icebox",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Viper",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Fade",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Omen",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Raze",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
     "Map":"Haven",
     "Agent":"KAY\/O",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Sova",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Jett",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Breach",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
     "Map":"Haven",
     "Agent":"Killjoy",
-    "Pick Rate":"50%",
-    "Year":"2022"
+    "Pick Rate":"41.7%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
     "Map":"Haven",
     "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Round 3",
-    "Map":"Haven",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Chamber",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Fade",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Jett",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"KAY\/O",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Sova",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Killjoy",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Omen",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Astra",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Ascent",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Fade",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"KAY\/O",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Brimstone",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Skye",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Raze",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Astra",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Bind",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Chamber",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Fade",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Jett",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"KAY\/O",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Viper",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Sova",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Skye",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Breach",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Breeze",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Chamber",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Fade",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Jett",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"KAY\/O",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Killjoy",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Brimstone",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Omen",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Breach",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Neon",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Phoenix",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Fracture",
-    "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Chamber",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Fade",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Jett",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"KAY\/O",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Viper",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Sova",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Killjoy",
-    "Pick Rate":"100%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Brimstone",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Skye",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
     "Map":"Haven",
     "Agent":"Omen",
-    "Pick Rate":"100%",
-    "Year":"2022"
+    "Pick Rate":"100.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Breach",
-    "Pick Rate":"50%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Raze",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Neon",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Astra",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
     "Map":"Haven",
     "Agent":"Phoenix",
-    "Pick Rate":"50%",
-    "Year":"2022"
+    "Pick Rate":"20.8%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
     "Map":"Haven",
-    "Agent":"Iso",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Raze",
+    "Pick Rate":"58.3%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Harbor",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
-    "Map":"Haven",
-    "Agent":"Gekko",
-    "Pick Rate":"0%",
-    "Year":"2022"
-  },
-  {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
     "Map":"Haven",
     "Agent":"Reyna",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
     "Map":"Haven",
     "Agent":"Sage",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
     "Map":"Haven",
-    "Agent":"Deadlock",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Skye",
+    "Pick Rate":"0.0%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
     "Map":"Haven",
-    "Agent":"Cypher",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Sova",
+    "Pick Rate":"8.3%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
     "Map":"Haven",
-    "Agent":"Clove",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Agent":"Viper",
+    "Pick Rate":"8.3%"
   },
   {
-    "Tournament":"Valorant Champions 2022",
-    "Stage":"Playoffs",
-    "Match Type":"Lower Final",
     "Map":"Haven",
     "Agent":"Yoru",
-    "Pick Rate":"0%",
-    "Year":"2022"
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Astra",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Breach",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Brimstone",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Chamber",
+    "Pick Rate":"87.5%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Clove",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Cypher",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Deadlock",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Fade",
+    "Pick Rate":"37.5%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Gekko",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Harbor",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Iso",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Jett",
+    "Pick Rate":"12.5%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"KAY\/O",
+    "Pick Rate":"50.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Killjoy",
+    "Pick Rate":"25.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Neon",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Omen",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Phoenix",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Raze",
+    "Pick Rate":"25.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Reyna",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Sage",
+    "Pick Rate":"100.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Skye",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Sova",
+    "Pick Rate":"62.5%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Viper",
+    "Pick Rate":"100.0%"
+  },
+  {
+    "Map":"Icebox",
+    "Agent":"Yoru",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Astra",
+    "Pick Rate":"100.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Breach",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Brimstone",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Chamber",
+    "Pick Rate":"100.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Clove",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Cypher",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Deadlock",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Fade",
+    "Pick Rate":"83.3%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Gekko",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Harbor",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Iso",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Jett",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"KAY\/O",
+    "Pick Rate":"83.3%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Killjoy",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Neon",
+    "Pick Rate":"66.7%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Omen",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Phoenix",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Raze",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Reyna",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Sage",
+    "Pick Rate":"16.7%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Skye",
+    "Pick Rate":"33.3%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Sova",
+    "Pick Rate":"0.0%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Viper",
+    "Pick Rate":"16.7%"
+  },
+  {
+    "Map":"Pearl",
+    "Agent":"Yoru",
+    "Pick Rate":"0.0%"
   }
 ]

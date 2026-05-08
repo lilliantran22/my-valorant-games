@@ -1,0 +1,36 @@
+{
+  "years": [
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "counts": {
+    "2021": {
+      "players": 141,
+      "pick_rates": 384,
+      "team_agents": 200
+    },
+    "2022": {
+      "players": 298,
+      "pick_rates": 792,
+      "team_agents": 370
+    },
+    "2023": {
+      "players": 218,
+      "pick_rates": 624,
+      "team_agents": 310
+    },
+    "2024": {
+      "players": 282,
+      "pick_rates": 816,
+      "team_agents": 380
+    },
+    "2025": {
+      "players": 277,
+      "pick_rates": 837,
+      "team_agents": 410
+    }
+  }
+}
