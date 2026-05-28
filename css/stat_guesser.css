@@ -1,0 +1,519 @@
+/* ── Stat Guesser Specific Styles ── */
+
+.sg-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* ── Settings Bar ── */
+.sg-settings-bar {
+    background: #0f1422cc;
+    border-radius: 2rem;
+    padding: 0.9rem 1.5rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    border: 1px solid #2a3448;
+}
+
+.sg-settings-left {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.sg-score {
+    font-size: 0.9rem;
+    background: #0b0f1a;
+    padding: 0.3rem 1rem;
+    border-radius: 2rem;
+    letter-spacing: 0.3px;
+}
+
+.sg-score span {
+    color: #ff8a8f;
+    font-weight: 700;
+}
+
+/* ── Buttons ── */
+.sg-btn {
+    background: #1e2a3e;
+    border: 1px solid #2a3448;
+    border-radius: 2rem;
+    padding: 0.5rem 1.25rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #ccd6f0;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-family: inherit;
+}
+
+.sg-btn:hover {
+    border-color: #ff465580;
+    transform: translateY(-2px);
+}
+
+.sg-btn-danger {
+    background: #ff465520;
+    border-color: #ff4655;
+    color: #ff8a8f;
+}
+
+.sg-btn-danger:hover {
+    background: #ff465530;
+}
+
+.sg-btn.disabled,
+.sg-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: none;
+    pointer-events: none;
+}
+
+/* ── Settings Panels ── */
+.sg-settings-panel {
+    background: #0f1422;
+    border: 1px solid #2a3448;
+    border-radius: 1.5rem;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 1.5rem;
+    display: none;
+}
+
+.sg-settings-panel.open {
+    display: block;
+    animation: fadeSlideIn 0.2s ease;
+}
+
+.sg-settings-panel h3 {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #7a8fa6;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 1rem;
+}
+
+.sg-settings-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.sg-settings-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    flex: 1;
+}
+
+.sg-panel-buttons {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+/* ── Year Pills ── */
+.sg-year-pills {
+    display: flex;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+}
+
+.sg-year-pill {
+    background: #1e2a3e;
+    border: 1px solid #2a3448;
+    border-radius: 2rem;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #7a8fa6;
+    cursor: pointer;
+    transition: 0.15s;
+    font-family: inherit;
+}
+
+.sg-year-pill.active {
+    background: #ff465530;
+    border-color: #ff4655;
+    color: #ff8a8f;
+}
+
+/* ── All Toggles (stats + info combined) ── */
+.sg-all-toggles {
+    display: flex;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+}
+
+.sg-stat-toggle,
+.sg-info-toggle {
+    background: #1e2a3e;
+    border: 1px solid #2a3448;
+    border-radius: 2rem;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #7a8fa6;
+    cursor: pointer;
+    transition: 0.15s;
+    font-family: inherit;
+}
+
+.sg-stat-toggle.active,
+.sg-info-toggle.active {
+    background: #ff465530;
+    border-color: #ff4655;
+    color: #ff8a8f;
+}
+
+/* ── Panel action buttons ── */
+.sg-apply-btn {
+    background: #2a9d8f;
+    border: none;
+    padding: 0.5rem 1.25rem;
+    border-radius: 2rem;
+    font-weight: 700;
+    color: white;
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-family: inherit;
+    transition: 0.2s;
+}
+
+.sg-apply-btn:hover { background: #33b8aa; }
+
+.sg-default-btn,
+.sg-deselect-btn {
+    background: #1e2a3e;
+    border: 1px solid #2a3448;
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    font-weight: 600;
+    color: #7a8fa6;
+    cursor: pointer;
+    font-size: 0.75rem;
+    font-family: inherit;
+    transition: 0.15s;
+}
+
+.sg-default-btn:hover,
+.sg-deselect-btn:hover {
+    border-color: #ff465580;
+    color: #ff8a8f;
+}
+
+/* ── Panel messages ── */
+.sg-panel-warning {
+    background: #ff465515;
+    border: 1px solid #ff465560;
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    color: #ff8a8f;
+}
+
+.sg-panel-error {
+    background: #ff000015;
+    border: 1px solid #ff000060;
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    color: #ff6060;
+}
+
+/* ── Stat Card ── */
+.sg-stat-card {
+    background: #11161f;
+    border-radius: 2rem;
+    padding: 1.5rem 2rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid #2a3448;
+    animation: fadeSlideIn 0.35s ease;
+}
+
+@keyframes fadeSlideIn {
+    from { opacity: 0; transform: translateY(12px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+.sg-stat-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1.2rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.sg-player-info { display: flex; flex-direction: column; gap: 0.2rem; }
+
+.sg-player-name {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: -0.3px;
+}
+
+.sg-player-meta { font-size: 0.8rem; color: #7a8fa6; }
+.sg-player-meta span { color: #ff8a8f; font-weight: 600; }
+
+.sg-question-badge {
+    font-size: 0.75rem;
+    font-weight: 600;
+    background: #1e2a3e;
+    color: #7a8fa6;
+    padding: 0.3rem 0.9rem;
+    border-radius: 2rem;
+    white-space: nowrap;
+}
+
+/* ── Stats Grid ── */
+.sg-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0.75rem;
+}
+
+.sg-stat-pill {
+    background: #0b0f1a;
+    border-radius: 1rem;
+    padding: 0.75rem 0.5rem;
+    text-align: center;
+    border: 1px solid #1e2a3e;
+}
+
+.sg-stat-name {
+    font-size: 0.65rem;
+    font-weight: 600;
+    color: #7a8fa6;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-bottom: 0.35rem;
+}
+
+.sg-stat-value {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1;
+}
+
+/* ── Prompt ── */
+.sg-prompt {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #b0bed8;
+    margin-bottom: 1.2rem;
+}
+
+/* ── Agent Grid ── */
+.sg-agent-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+}
+
+.sg-agent-btn {
+    background: #11161f;
+    border: 2px solid #2a3448;
+    border-radius: 1.2rem;
+    padding: 0.6rem 0.4rem 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s cubic-bezier(0.2, 0.9, 0.4, 1.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.4rem;
+    color: #ccd6f0;
+    font-size: 0.75rem;
+    font-weight: 600;
+    font-family: inherit;
+}
+
+.sg-agent-btn:hover:not(:disabled) {
+    border-color: #ff465580;
+    transform: translateY(-3px);
+    background: #1a2030;
+}
+
+.sg-agent-btn img {
+    width: 52px;
+    height: 52px;
+    object-fit: cover;
+    border-radius: 0.6rem;
+    background: #1a1f2c;
+}
+
+.sg-agent-btn:disabled { cursor: default; }
+
+.sg-agent-btn.correct {
+    border-color: #2a9d8f;
+    background: #0d2420;
+    color: #2a9d8f;
+    animation: correctPop 0.35s ease;
+}
+
+.sg-agent-btn.wrong {
+    border-color: #4a0000;
+    background: #1a0808;
+    color: #7a4040;
+    opacity: 0.6;
+}
+
+.sg-agent-btn.reveal {
+    border-color: #2a9d8f60;
+    background: #0d2420;
+    color: #2a9d8f;
+}
+
+@keyframes correctPop {
+    0%   { transform: scale(1); }
+    50%  { transform: scale(1.08); }
+    100% { transform: scale(1); }
+}
+
+/* ── Feedback ── */
+.sg-feedback {
+    text-align: center;
+    padding: 0.9rem 1.5rem;
+    border-radius: 2rem;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-bottom: 1.25rem;
+    display: none;
+    animation: fadeSlideIn 0.25s ease;
+}
+
+.sg-feedback.correct {
+    background: #0d2420;
+    border: 1px solid #2a9d8f;
+    color: #2a9d8f;
+    display: block;
+}
+
+.sg-feedback.wrong {
+    background: #1a0808;
+    border: 1px solid #ff4655;
+    color: #ff8a8f;
+    display: block;
+}
+
+/* ── Button Group ── */
+.sg-button-group {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.sg-next-btn,
+.sg-share-btn {
+    flex: 1;
+    padding: 0.85rem;
+    border: none;
+    border-radius: 2rem;
+    color: #fff;
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.2s;
+    font-family: inherit;
+}
+
+.sg-next-btn {
+    background: #ff4655;
+}
+
+.sg-next-btn:hover:not(:disabled) {
+    background: #ff6070;
+    transform: translateY(-2px);
+}
+
+.sg-next-btn:disabled {
+    background: #2a3448;
+    color: #7a8fa6;
+    cursor: not-allowed;
+    transform: none;
+}
+
+.sg-share-btn {
+    background: #2a9d8f;
+}
+
+.sg-share-btn:hover {
+    background: #33b8aa;
+    transform: translateY(-2px);
+}
+
+/* ── Map Banner ── */
+.sg-map-banner-container {
+    margin-bottom: 1rem;
+    animation: fadeSlideIn 0.3s ease;
+}
+
+.sg-map-banner {
+    width: 100%;
+    border-radius: 1rem;
+    overflow: hidden;
+    background: #0b0f1a;
+    border: 1px solid #2a9d8f;
+}
+
+.sg-map-banner img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    object-position: center 40%;
+    display: block;
+}
+
+.sg-map-banner-text {
+    padding: 0.75rem;
+    text-align: center;
+    color: #2a9d8f;
+    font-weight: 600;
+}
+
+/* ── Loading ── */
+.sg-loading {
+    text-align: center;
+    padding: 3rem;
+    color: #7a8fa6;
+    font-size: 1rem;
+}
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+    .sg-stats-grid { grid-template-columns: repeat(3, 1fr); }
+    .sg-agent-grid { grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); }
+    .sg-map-banner img { height: 80px; }
+    .sg-settings-row { flex-direction: column; }
+    .sg-panel-buttons { flex-wrap: wrap; }
+}
+
+@media (min-width: 1200px) {
+    .sg-map-banner img { height: 150px; }
+}
+
+/* ── Reveal animation for hidden stats/info after answering ── */
+@keyframes revealFadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+.sg-reveal-anim {
+    animation: revealFadeIn 0.4s ease forwards;
+}
