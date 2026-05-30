@@ -499,7 +499,7 @@ function shareResults() {
         `Years: ${yearLabel} | Stats: ${statLabel} | Info: ${infoLabel}\n` +
         `${emojiLine}\n` +
         `Score: ${score} | Best Streak: ${highestStreak}\n` +
-        `Play at: myvalorantgames.com`;
+        `Play at: https://lilliantran22.github.io/my-valorant-games/pages/stat-guesser/index.html`;
 
     navigator.clipboard.writeText(shareText).then(() => {
         const feedback = document.getElementById('feedback');
